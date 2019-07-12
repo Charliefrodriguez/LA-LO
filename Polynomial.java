@@ -3,6 +3,7 @@ package poly;
 import java.io.IOException;
 import java.util.Scanner;
 
+// The evaluate, add and multiply methods are my work the other parts of the project were pre made.   
 
 /**
  * This class implements evaluate, add and multiply for polynomials.
